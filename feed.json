@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "health_insurance",
     "description": "",
-    "home_page_url": "https://bigrender.github.io/gg-pages",
-    "feed_url": "https://bigrender.github.io/gg-pages/feed.json",
+    "home_page_url": "https://b0ee92fb.gg-pages.pages.dev",
+    "feed_url": "https://b0ee92fb.gg-pages.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "health"
     },
     "items": [
         {
-            "id": "https://bigrender.github.io/gg-pages/sdns.html",
-            "url": "https://bigrender.github.io/gg-pages/sdns.html",
+            "id": "https://b0ee92fb.gg-pages.pages.dev/sdns.html",
+            "url": "https://b0ee92fb.gg-pages.pages.dev/sdns.html",
             "title": "건강보험 제대로",
             "summary": "이제는 제대로 해보자..",
             "content_html": "<p>이제는 제대로 해보자..</p>",
