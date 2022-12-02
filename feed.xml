@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>health_insurance</title>
+    <link href="https://bigrender.github.io/gg-pages/feed.xml" rel="self" />
+    <link href="https://bigrender.github.io/gg-pages" />
+    <updated>2022-12-01T18:38:25+09:00</updated>
+    <author>
+        <name>health</name>
+    </author>
+    <id>https://bigrender.github.io/gg-pages</id>
+
+    <entry>
+        <title>ㅅㄷㄴㅅ</title>
+        <author>
+            <name>health</name>
+        </author>
+        <link href="https://bigrender.github.io/gg-pages/sdns.html"/>
+        <id>https://bigrender.github.io/gg-pages/sdns.html</id>
+
+        <updated>2022-12-01T18:38:25+09:00</updated>
+            <summary>
+                <![CDATA[
+                    ㅆㅈㄴㅅㄴㄷㅅ
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ㅆㅈㄴㅅㄴㄷㅅ</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

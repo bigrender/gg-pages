@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "health_insurance",
+    "description": "",
+    "home_page_url": "https://bigrender.github.io/gg-pages",
+    "feed_url": "https://bigrender.github.io/gg-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "health"
+    },
+    "items": [
+        {
+            "id": "https://bigrender.github.io/gg-pages/sdns.html",
+            "url": "https://bigrender.github.io/gg-pages/sdns.html",
+            "title": "ㅅㄷㄴㅅ",
+            "summary": "ㅆㅈㄴㅅㄴㄷㅅ",
+            "content_html": "<p>ㅆㅈㄴㅅㄴㄷㅅ</p>",
+            "author": {
+                "name": "health"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-30T15:59:12+09:00",
+            "date_modified": "2022-12-01T18:38:25+09:00"
+        }
+    ]
+}
